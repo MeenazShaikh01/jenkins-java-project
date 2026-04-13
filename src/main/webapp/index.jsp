@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Telephone</label>
+          <label>Telephonessss</label>
         </div>
         <div class="form-control">
           <input type="password" required />
